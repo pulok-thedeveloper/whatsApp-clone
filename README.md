@@ -1,8 +1,15 @@
 # WhatsApp-clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#Key features
 
-Currently, two official plugins are available:
+Users can log in with a Google Account through Firebase Authentication.
+Profile Details
+Demo Contacts
+Send messages
+Contact Details
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Technologies Used
+Vite + React.Js
+React router dom
+Tailwind CSS
+Firebase Auth
