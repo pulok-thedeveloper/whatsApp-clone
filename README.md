@@ -9,8 +9,8 @@
 5. Contact Details
 
 
-#Technologies Used
-Vite + React.Js
-React router dom
-Tailwind CSS
+#Technologies Used: 
+Vite + React.Js,
+React router dom,
+Tailwind CSS,
 Firebase Auth
