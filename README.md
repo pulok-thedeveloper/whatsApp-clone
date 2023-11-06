@@ -9,7 +9,7 @@
 5. Contact Details
 
 
-#Technologies Used: 
+#Technologies Used:-
 Vite + React.Js,
 React router dom,
 Tailwind CSS,
